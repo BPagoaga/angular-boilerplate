@@ -1,4 +1,5 @@
-Trying Angular CLI with Travis CI and firebase
+Trying Angular CLI with Travis CI and firebase.
+URL : https://angular-boilerplate-5e8ea.firebaseapp.com/
 
 # AngularBoilerplate
 
